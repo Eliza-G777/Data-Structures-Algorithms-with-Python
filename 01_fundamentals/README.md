@@ -7,7 +7,7 @@ Write each program yourself. If a tutorial or course helped you, note it in `ATT
 | Day | File | Status |
 | --- | --- | --- |
 | Ref | `week1_example.py` (worked example, study this first) | ✅ |
-| Tue | `number_guessing.py` | ⬜ |
+| Tue | `number_guessing.py` | ✅ |
 | Wed | `calculator.py` | ⬜ |
 | Thu | `min_max.py` | ⬜ |
 | Thu | `student_records.py` | ⬜ |
